@@ -1,0 +1,10 @@
+.site-footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #61CE70;
+    padding: 10px 0;
+    font-size: 14px;
+    color: white;
+  }
+  

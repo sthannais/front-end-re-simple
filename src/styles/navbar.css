@@ -1,0 +1,13 @@
+.site-navbar {
+    width: 100%;
+    background-color: #F5F5F5 !important;
+    position: relative;
+    color: black;
+  }
+
+.header__title {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+  
